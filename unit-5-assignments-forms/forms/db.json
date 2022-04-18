@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "Name": "abhishek pandey",
+      "age": "24",
+      "address": "Qtr.Mq. 62, subhash nagar, ghugus",
+      "department": "IT",
+      "salary": "50000",
+      "maritalStatus": "Unmarried",
+      "id": 1
+    },
+    {
+      "Name": "anant pandey",
+      "age": "27",
+      "address": "Qtr.Mq. 62, subhash nagar, ghugus",
+      "department": "Mechanical",
+      "salary": "2000000",
+      "maritalStatus": "Unmarried",
+      "id": 2
+    },
+    {
+      "Name": "ankush pandey",
+      "age": "20",
+      "address": "Qtr.Mq. 62, subhash nagar, ghugus",
+      "department": "Electrical",
+      "salary": "2000000",
+      "maritalStatus": "Unmarried",
+      "id": 3
+    },
+    {
+      "Name": "abhishek pandey",
+      "age": "3",
+      "address": "Qtr.Mq. 62, subhash nagar, ghugus",
+      "department": "",
+      "salary": "2000000",
+      "maritalStatus": "Unmarried",
+      "id": 4
+    }
+  ]
+}
