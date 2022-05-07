@@ -1,0 +1,126 @@
+
+.login {
+    width: 60%;
+    height: 100%;
+    background: white;
+    /* border: 1px solid #dddfe2; */
+    /* box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%); */
+    border-radius: 8px;
+    padding: 1rem;
+    /* border:  1px solid green; */
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.divone{
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid black; */
+}
+.divone > h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.divtwoo{
+    width: 50%;
+    height: 80%;
+    /* border: 1px solid blue; */
+    background-color: hsl(259,78%,80%)
+    
+}
+.divthree{
+    width: 80%;
+    height: 40%;
+    background-color:white ;
+    margin-left: 10%;
+    margin-top: 50%;
+    
+}
+.divthree > h3 {
+    text-align: center;
+    padding: 35px;
+}
+
+
+
+.login > .divone > .labell >  input {
+  
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.8rem 0.75rem;
+    width: 80%;
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+.or{
+    text-align: center;
+}
+.span > div{
+    display: flex;
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+}
+.span > div > p{
+    margin-left: 1rem;
+}
+
+.login > .divone >  .button {
+    font-size: 1.25rem;
+    /* padding: 0.5rem; */
+    margin: 0.5rem 0;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    width: 80%;
+    padding: 0.8rem 0.75rem;
+    margin-left: 2rem;
+
+}
+
+.icon{
+    width: 30px;
+    height: 20px;
+}
+
+.buttonone{
+    padding: 0.5rem;
+    width: 50%;
+    margin-top: 3rem;
+}
+.buttonblack{
+    background-color: black;
+    color: white;
+    font-size: 1.09rem;
+    width: 40%;
+}
+.buttonwhite{
+    background-color: white;
+    color: black;
+    border-color: gray;
+    font-size: 1.09rem;
+    width: 40%;
+   
+}
+
+.signin{
+    background-color: black;
+    color: white;
+    margin-top: 1rem;
+}
+.signin:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+.span{
+    /* border: 1px solid black; */
+    margin-top: -40px;
+}
+.registerr{
+    border: 1px solid black
+}
