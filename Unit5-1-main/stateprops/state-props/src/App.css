@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+}
+.green{
+  color: green;
+}
+.red{
+  color: crimson;
+}

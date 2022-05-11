@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+button, select{
+  width: 100px;
+  height: 30px;
+  padding: 5px;
+}
+.togglebtn{
+width: 200px;
+color: white;
+background-color: crimson;
+border: none;
+margin-bottom: 10px;
+}

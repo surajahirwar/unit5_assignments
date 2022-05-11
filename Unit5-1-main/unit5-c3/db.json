@@ -1,0 +1,30 @@
+{
+  "employees": [
+    {
+      "employee_name": "Huzaifa",
+      "employee_id": "fw15_281",
+      "title": "Jr Software Developer",
+      "salary": "53436",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.j53GUhgI0T1JJCy0VVg8jgHaFw&pid=Api&P=0&w=222&h=173",
+      "username": "Huzaifa",
+      "password": "1234",
+      "tasks": "assignment, frontend, presentation",
+      "status": "working",
+      "team": "frontend",
+      "id": 1
+    },
+    {
+      "employee_name": "Safoora",
+      "employee_id": "adcxz",
+      "title": "Jr Software Developer",
+      "salary": "30000",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.cfHDsJnUV_k5pycBFXnhxgAAAA&pid=Api&P=0&w=132&h=172",
+      "username": "Safoora",
+      "password": "1234",
+      "tasks": "assignment, frontend, presentation",
+      "status": "working",
+      "team": "backend",
+      "id": 2
+    }
+  ]
+}
